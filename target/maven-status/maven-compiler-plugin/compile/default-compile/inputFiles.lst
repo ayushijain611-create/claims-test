@@ -1,0 +1,14 @@
+C:\Projects\spring-boot\claims-system\claims-test\src\main\java\com\practice\claims\ClaimsApplication.java
+C:\Projects\spring-boot\claims-system\claims-test\src\main\java\com\practice\claims\controller\ClaimController.java
+C:\Projects\spring-boot\claims-system\claims-test\src\main\java\com\practice\claims\dto\ClaimRequest.java
+C:\Projects\spring-boot\claims-system\claims-test\src\main\java\com\practice\claims\dto\ClaimResponse.java
+C:\Projects\spring-boot\claims-system\claims-test\src\main\java\com\practice\claims\dto\ErrorResponse.java
+C:\Projects\spring-boot\claims-system\claims-test\src\main\java\com\practice\claims\entity\Claim.java
+C:\Projects\spring-boot\claims-system\claims-test\src\main\java\com\practice\claims\entity\Policy.java
+C:\Projects\spring-boot\claims-system\claims-test\src\main\java\com\practice\claims\exception\ClaimExistException.java
+C:\Projects\spring-boot\claims-system\claims-test\src\main\java\com\practice\claims\exception\ClaimNotFoundException.java
+C:\Projects\spring-boot\claims-system\claims-test\src\main\java\com\practice\claims\exception\GlobalExceptionHandler.java
+C:\Projects\spring-boot\claims-system\claims-test\src\main\java\com\practice\claims\exception\PolicyInvalidException.java
+C:\Projects\spring-boot\claims-system\claims-test\src\main\java\com\practice\claims\repository\ClaimRepository.java
+C:\Projects\spring-boot\claims-system\claims-test\src\main\java\com\practice\claims\repository\PolicyRepository.java
+C:\Projects\spring-boot\claims-system\claims-test\src\main\java\com\practice\claims\service\ClaimService.java

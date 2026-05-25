@@ -1,0 +1,15 @@
+com\practice\claims\dto\ClaimRequest.class
+com\practice\claims\entity\Claim$ClaimStatus.class
+com\practice\claims\service\ClaimService.class
+com\practice\claims\repository\PolicyRepository.class
+com\practice\claims\dto\ClaimResponse.class
+com\practice\claims\entity\Policy.class
+com\practice\claims\exception\GlobalExceptionHandler.class
+com\practice\claims\exception\PolicyInvalidException.class
+com\practice\claims\dto\ErrorResponse.class
+com\practice\claims\exception\ClaimExistException.class
+com\practice\claims\ClaimsApplication.class
+com\practice\claims\controller\ClaimController.class
+com\practice\claims\repository\ClaimRepository.class
+com\practice\claims\exception\ClaimNotFoundException.class
+com\practice\claims\entity\Claim.class
